@@ -276,7 +276,7 @@ Wednesday
 .. _thuAM0flg: 05-10-2018_thursday/easy_to_use_hard_to_misuse__declarative_style_in_cpp__ben_deane__cppnow_05102018.pdf
 .. |thuAM0flgV| replace:: (video)
 .. _thuAM0flgV: 
-.. |thuAM0hud| replace:: yomm2: Fast, Orthogonal, Open Methods in a Library, *Jean-Loius Leroy*
+.. |thuAM0hud| replace:: yomm2: Fast, Orthogonal, Open Methods in a Library, *Jean-Louis Leroy*
 .. _thuAM0hud: 
 .. |thuAM0hudV| replace:: (video)
 .. _thuAM0hudV: 
